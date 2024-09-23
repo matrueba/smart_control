@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">smartbox app</string>
+    <string name="indicators_tab">Info Riego</string>
+    <string name="controls_tab">Control Riego</string>
+    <string name="air_temperature_text">Temperatura Aire</string>
+    <string name="air_humidity_text">Humedad Aire</string>
+    <string name="ground_humidity_text">Humedad Suelo</string>
+    <string name="water_level_text">Nivel Agua</string>
+    <string name="air_temperature_value">0ºC</string>
+    <string name="air_humidity_value">0%</string>
+    <string name="ground_humidity_value">0%</string>
+    <string name="water_level_value">0%</string>
+    <string name="degrees">%1$s ºC</string>
+    <string name="percentage">%1$s %</string>
+    <string name="pump_indicator_text">Estado Bomba</string>
+    <string name="pump_activated">Activado</string>
+    <string name="pump_deactivated">Desactivado</string>
+    <string name="pump_time_text">Tiempo de riego</string>
+    <string name="pump_time">00:00:00</string>
+    <string name="mode_selected_text">Modo Seleccionado</string>
+    <string name="auto_mode_text">Seleccionar modo</string>
+    <string name="manuaL_mode_text">Control modo manual</string>
+    <string name="auto_mode_value">Manual</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="periodic_mode_text">Habilitar modo periodico</string>
+    <string name="periodic_mode_value">OFF</string>
+    <string name="activation_time">Hora de activación automática</string>
+    <string name="periodic_delay">Periodo de repetición (días)</string>
+    <string name="go_to_auto_button">Modo Auto</string>
+    <string name="go_to_manual_button">Modo Manual</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="irrigation_time_selected_text">Hora riego programada</string>
+
+
+
+    <string name="controls_fragment_label">Controles</string>
+    <string name="indicators_fragment_label">Indicadores</string>
+
+
+</resources>
